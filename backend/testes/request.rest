@@ -1,0 +1,42 @@
+POST http://localhost:3000/inserir
+Content-Type: application/json
+
+{
+"longitude": -8.6291,
+"latitude": 41.1579,
+"url_foto": "http://servidor.de.imagens.com/minha-foto.jpg",
+"descricao": "Lixo junto ao poste de luz."
+}
+
+###
+GET http://localhost:3000/locais/pendentes
+Authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwiZW1haWwiOiJjbGF1ZGlvQGhvdG1haWwuY29tIiwiaWF0IjoxNzY0MjUzNTQ2LCJleHAiOjE3NjQyNzUxNDZ9.c5arQddTG6sPrqK-Z6brabu-7I4BRkNeLYD3VoXx25g
+
+###
+PUT http://localhost:3000/locais/1/limpar
+###
+POST http://localhost:3000/usuarios/cadastro
+Content-Type: application/json
+
+{
+    "email":"claudio@hotmail.com",
+    "nome":"claudio",
+    "senha": "12345678"
+}
+
+###
+POST http://localhost:3000/
+Content-Type: application/json
+
+{
+    "email": "claudiom@hotmail.com"
+}
+
+###
+POST http://localhost:3000/usuarios/login
+Content-Type: application/json
+
+{
+    "email":"claudio@hotmail.com",
+    "senha":"12345678"
+}
