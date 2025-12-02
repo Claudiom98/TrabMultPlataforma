@@ -54,7 +54,7 @@ O cadastro do usuário pode ser realizado no próprio sistema, apertando em "Reg
 
 ## 7. Validação com o Público-Alvo
 * **Público-Alvo**: SubReddit r/voluntarios
-*A tentativa de validação se deu através da divulgação de um vídeo no YouTube na comunidade do SubReddit r/voluntarios. Apenas alguns comentários no vídeo citado serviram como feedback.
+* A tentativa de validação se deu através da divulgação de um vídeo no YouTube na comunidade do SubReddit r/voluntarios. Apenas alguns comentários no vídeo citado serviram como feedback.
 * **Principais feedback**: O sistema de cadastro poderia ter uma confirmação de e-mail. Houve também uma invalidação, onde dizia que um grupo de Whatsapp resolveria a problemática proposta.
 * Não houveram atualizações do aplicativo desde o lançamento. **Lembrete**: Não estava presente durante a realização da primeira etapa (cursei ela em 2024), logo não foi realizado o protótipo.
 ## 8. Membro da Equipe
