@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "454042457712",
+    "firebase_url": "https://teste-1483f-default-rtdb.firebaseio.com",
+    "project_id": "teste-1483f",
+    "storage_bucket": "teste-1483f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454042457712:android:65d8897fa262abdf96c6b5",
+        "android_client_info": {
+          "package_name": "com.example.aplimpeza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPpX183AxnmGCrNA9NyG4qkcl0yANjOAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
