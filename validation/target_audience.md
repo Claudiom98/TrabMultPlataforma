@@ -1,0 +1,1 @@
+O público-alvo escolhido foi a comunidade de voluntários do subReddit r/voluntarios. Uma comunidade criada para fins acadêmicos e reunir voluntários das demais áreas dos falantes da lígua portuguesa e espanhola.
